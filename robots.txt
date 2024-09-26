@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ocktonsaba.github.io/sitemap.ocktonsaba.gz
+Sitemap: https://ocktonsaba.github.io/app/sitemap.ocktonsaba.gz
+Sitemap: https://ocktonsaba.github.io/assets/sitemap.ocktonsaba.gz
+Sitemap: https://ocktonsaba.github.io/css/sitemap.ocktonsaba.gz
+Sitemap: https://ocktonsaba.github.io/data/sitemap.ocktonsaba.gz
+Sitemap: https://ocktonsaba.github.io/includes/sitemap.ocktonsaba.gz
+Sitemap: https://ocktonsaba.github.io/item/sitemap.ocktonsaba.gz
+Sitemap: https://ocktonsaba.github.io/src/sitemap.ocktonsaba.gz
